@@ -1,0 +1,8 @@
+prefix=/home/leon/cpptest/devel
+
+Name: test_pkg
+Description: Description of test_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/leon/cpptest/devel/lib 
+Requires: 

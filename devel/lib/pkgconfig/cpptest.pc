@@ -1,0 +1,8 @@
+prefix=/home/leon/cpptest/devel
+
+Name: cpptest
+Description: Description of cpptest
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/leon/cpptest/devel/lib 
+Requires: 

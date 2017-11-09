@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leon/cpptest/src/test_pkg/src/talker.cpp
+ros/ros.h
+/home/leon/cpptest/src/test_pkg/src/ros/ros.h
+std_msgs/String.h
+/home/leon/cpptest/src/test_pkg/src/std_msgs/String.h
+sstream
+/home/leon/cpptest/src/test_pkg/src/sstream
+
